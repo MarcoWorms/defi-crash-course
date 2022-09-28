@@ -44,7 +44,7 @@ And also follow me on Twitter as I'm always exploring and writing about DeFi, an
 
 # Crash introduction to blockchain basics
 
-Because DeFi happens mostly in blockchains it's important to understand blockchain basics:
+DeFi happens mostly in blockchains so it's important to understand the tech history and basics:
 
 - The first popular use of blockchain tech emerged with Bitcoin in 2009
 - Bitcoin used the blockchain to build "decentralized money + ledger"
