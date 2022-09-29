@@ -267,7 +267,7 @@ With the increased scalability, we can also expect the gas fees to go down. This
 There are different types of layer 2 solutions:
 
 - **Channels** allow participants to exchange their transactions off-chain several times while only submitting two transactions to the base layer.
-- **Plasma** is a Layer 2 scaling solution originally proposed by Joseph Poon and Vitalik Buterin. It’s a framework for building scalable applications on Ethereum.
+- **Plasma** is a Layer 2 scaling solution originally proposed by Joseph Poon and Vitalik Buterin. It allows for off-chain decentralized apps.
 - **Sidechains** are Ethereum-compatible, independent blockchains with their consensus models and block parameters.
 - **Rollups** provide scaling by bundling or “rolling up” sidechain transactions into a single transaction and generating a cryptographic proof, also known as a SNARK (succinct non-interactive argument of knowledge). Only this proof is submitted to the base layer.
 
