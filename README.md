@@ -318,9 +318,11 @@ And also follow me on [Twitter @MarcoWorms](https://twitter.com/MarcoWorms) as I
 
 ### Glossaries
 
-Below are some glossaries to help you navigate DeFi terminology:
+Below are some glossaries and other resources to help you navigate DeFi:
 
 - [yearn defi glossary](https://docs.yearn.finance/resources/defi-glossary)
 - [yearn defi strategy descriptions glossary](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions)
 - [pentacle.xyz](http://pentacle.xyz/)
 - [defillama wiki](https://wiki.defillama.com/wiki/Main_Page)
+- [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [defi security basics](https://mirror.xyz/blorms.eth/LI0i-2v2Qs5UX2NV_L6zA8JMOteoOw0jWSm4e8ZR2oo)
