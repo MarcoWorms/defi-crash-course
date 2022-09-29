@@ -321,8 +321,8 @@ And also follow me on [Twitter @MarcoWorms](https://twitter.com/MarcoWorms) as I
 Below are glossaries and other resources to help you navigate DeFi:
 
 - [yearn defi glossary](https://docs.yearn.finance/resources/defi-glossary)
-- [yearn defi strategy descriptions glossary](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions)
+- [yearn defi strategies descriptions glossary](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions)
 - [pentacle.xyz collective web3 knowledge](http://pentacle.xyz/)
 - [defillama wiki](https://wiki.defillama.com/wiki/Main_Page)
-- [officercia defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [defi security basics](https://mirror.xyz/blorms.eth/LI0i-2v2Qs5UX2NV_L6zA8JMOteoOw0jWSm4e8ZR2oo)
