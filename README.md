@@ -40,7 +40,7 @@ And also follow me on Twitter as I'm always exploring and writing about DeFi, an
   - [Curve](#curve-source)
   - [Convex](#convex-source)
 - [The End?](#the-end)
-    - [Glossaries](#glossaries)
+    - [Resources](#resources)
 
 # Crash introduction to blockchain basics
 
@@ -316,13 +316,13 @@ To stay up to date and learn even more about decentralized finance, make sure yo
 
 And also follow me on [Twitter @MarcoWorms](https://twitter.com/MarcoWorms) as I'm always exploring and writing about DeFi, and more frequently about the yearn protocol in the [Yearn Blog](https://medium.com/iearn) and [Yearn Docs](https://docs.yearn.finance/).
 
-### Glossaries
+### Resources
 
-Below are some glossaries and other resources to help you navigate DeFi:
+Below are glossaries and other resources to help you navigate DeFi:
 
 - [yearn defi glossary](https://docs.yearn.finance/resources/defi-glossary)
 - [yearn defi strategy descriptions glossary](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions)
-- [pentacle.xyz](http://pentacle.xyz/)
+- [pentacle.xyz collective web3 knowledge](http://pentacle.xyz/)
 - [defillama wiki](https://wiki.defillama.com/wiki/Main_Page)
-- [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [officercia defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [defi security basics](https://mirror.xyz/blorms.eth/LI0i-2v2Qs5UX2NV_L6zA8JMOteoOw0jWSm4e8ZR2oo)
