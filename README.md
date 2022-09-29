@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/Huayq6T.png)
 
-This guide is a summarized version of the [Finematics Guide to Decentralized Finance](https://finematics.com/guide-to-decentralized-finance/). **I am not the author of the original guides and I stole many images from it**. I also stole the guide progression structure, but I've included some extra concepts in between to make sure readers can go from zero to enlightenment about DeFi.
+This guide is a summarized version of the [Finematics Guide to Decentralized Finance](https://finematics.com/guide-to-decentralized-finance/). **I am not the author of the original guides and I took many images from it**. I also used the guide progression structure, but I've included some extra concepts in between to make sure readers can go from zero to enlightenment about DeFi.
 
 Most of the concepts had their initial description generated from [GPT3 AI](https://beta.openai.com/playground) after feeding it with the full article from [Finematics](https://twitter.com/finematics) and asking for "a summary in layman terms". I then reviewed the texts with the help of [Grammarly](https://app.grammarly.com/) and added any extra details that might help with understanding the concept. It was a fun ride to make this and I hope it makes for a fun read!
 
@@ -61,7 +61,7 @@ DeFi happens mostly in blockchains so it's important to understand the tech hist
 - Ethereum was launched in 2015
     - it was a bitcoin clone but it had smart contracts
     - the money it created is called ETH
-    - every transaction, including interacting with smart contracts, has a fee charged in ETH (much like BTC has transaction fees)+
+    - every transaction, including interacting with smart contracts, has a fee charged in ETH (much like BTC has transaction fees)
 - Since then Ethereum has been a very successful venture, DeFi has over $55b circulating inside its protocols ([DefiLLama source](https://defillama.com/)), and the value of all cryptocurrencies combined has already reached the magnitude of trillions ([CMC source](https://coinmarketcap.com/charts/))
 
 # DeFi Novice
