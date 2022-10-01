@@ -76,8 +76,6 @@ DeFi is a movement that aims to create a new financial system that is open to ev
 
 DeFi ecosystem consists of multiple pillars, the main ones being Lending and Borrowing, Stable Coins, Decentralized Exchanges, Derivatives, Margin Trading and Insurance.
 
-The future of DeFi seems to be very bright as it can disrupt the existing financial system.
-
 ## DeFi Wallets ([source](https://finematics.com/top-3-defi-wallets-for-2021/))
 
 ![](https://i.imgur.com/NoZEbGT.png)
@@ -99,7 +97,6 @@ Technically, a wallet is a pair of:
 And a good concept to have in mind is that nothing is inside your wallet. You tag things in the blockchain with your **public** address, and after they are tagged as yours only you can change the address by using your **private** key. All market wallets mentioned help you keep your private key secure, but the most common-sense advice today for any DeFi average user is: **use hardware wallets**.
 
 ![](https://i.imgur.com/WaRuf18.png)
-
 
 ## Smart Contracts ([source](https://finematics.com/smart-contracts-explained/))
 
