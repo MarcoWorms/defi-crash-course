@@ -120,7 +120,7 @@ Ethereum Request for Comments ([ERC](https://eips.ethereum.org/erc)) is a formal
 
 ### ERC20
 
-The [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) standard defines a set of rules for how tokens on the Ethereum blockchain should be built. These rules include how the tokens can be transferred, how they are approved, and how data about the tokens is stored on the blockchain. The standard also defines how tokens interact with each other on the Ethereum blockchain. The ERC20 standard is used by most tokens in any blockchain, like USDC, USDT, DAI, CRV, YFI, UNI, SUSHI, and many others.
+The [ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) standard defines a set of rules for how tokens on the Ethereum blockchain should be built. These rules include how the tokens can be transferred, how they are approved, and how data about the tokens is stored on the blockchain. The standard also defines how tokens interact with each other on the Ethereum blockchain. The ERC20 standard is used by most popular tokens, like USDC, USDT, DAI, CRV, YFI, UNI, SUSHI, and many others.
 
 ## Uniswap (Decentralized Exchanges) ([source](https://finematics.com/uniswap-uni-token-explained/))
 
