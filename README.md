@@ -4,7 +4,7 @@
 
 This guide is a summarized version of the [Finematics Guide to Decentralized Finance](https://finematics.com/guide-to-decentralized-finance/). **I am not the author of the original guides and I took many images from it**. I also used the guide progression structure, but I've included some extra concepts in between to make sure readers can go from zero to enlightenment about DeFi.
 
-Most of the concepts had their initial description generated from [GPT3 AI](https://beta.openai.com/playground) after feeding it with the full article from [Finematics](https://twitter.com/finematics) and asking for "a summary in layman terms". I then reviewed the texts with the help of [Grammarly](https://app.grammarly.com/) and added any extra details that might help with understanding the concept. It was a fun ride to make this and I hope it makes for a fun read!
+Most of the concepts had their initial description generated from [GPT-3 AI](https://beta.openai.com/playground) after feeding it with the full article from [Finematics](https://twitter.com/finematics) and asking for "a summary in layman terms". I then reviewed the texts with the help of [Grammarly](https://app.grammarly.com/) and added any extra details that might help with understanding the concept. It was a fun ride to make this and I hope it makes for a fun read!
 
 If you like this content follow the original creator of all guides used to produce this summary:
 
@@ -15,34 +15,7 @@ And also follow me on Twitter as I'm always exploring and writing about DeFi, an
 
 - https://twitter.com/MarcoWorms
 
-# Table of Content
-
-- [Crash introduction to blockchain basics](#crash-introduction-to-blockchain-basics)
-- [DeFi Novice](#defi-novice)
-  - [What is Decentralized Finance?](#what-is-decentralized-finance-source)
-  - [DeFi Wallets](#defi-wallets-source)
-  - [Smart Contracts](#smart-contracts-source)
-  - [ERCs](#ercs-source)
-  - [Uniswap (Decentralized Exchanges)](#uniswap-decentralized-exchanges-source)
-  - [Lending and Borrowing](#lending-and-borrowing-source)
-- [DeFi Apprentice](#defi-apprentice)
-  - [Stable Coins](#stable-coins-source)
-  - [Liquidity Pools](#liquidity-pools-source)
-  - [Impermanent Loss](#impermanent-loss-source)
-  - [Yield Farming](#yield-farming-source)
-  - [Yearn Finance and YFI Token](#yearn-finance-and-yfi-token-source)
-- [DeFi Master](#defi-master)
-  - [Flash Loans](#flash-loans-source)
-  - [Vampire Attacks: Sushi Case](#vampire-attacks-sushi-case-source)
-  - [Ampleforth](#ampleforth-source)
-  - [NFTs in Defi](#nfts-in-defi-source)
-  - [Layer 2 Scaling](#layer-2-scaling-source)
-  - [Curve](#curve-source)
-  - [Convex](#convex-source)
-- [The End?](#the-end)
-    - [Resources](#resources)
-
-# Crash introduction to blockchain basics
+# Introduction to Blockchain Basics
 
 DeFi happens mostly in blockchains so it's important to understand the tech history and basics:
 
@@ -313,7 +286,7 @@ To stay up to date and learn even more about decentralized finance, make sure yo
 
 And also follow me on [Twitter @MarcoWorms](https://twitter.com/MarcoWorms) as I'm always exploring and writing about DeFi, and more frequently about the yearn protocol in the [Yearn Blog](https://medium.com/iearn) and [Yearn Docs](https://docs.yearn.finance/).
 
-### Resources
+## Resources
 
 Below are glossaries and other resources to help you navigate DeFi:
 
@@ -323,3 +296,17 @@ Below are glossaries and other resources to help you navigate DeFi:
 - [defillama wiki](https://wiki.defillama.com/wiki/Main_Page)
 - [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [defi security basics](https://mirror.xyz/blorms.eth/LI0i-2v2Qs5UX2NV_L6zA8JMOteoOw0jWSm4e8ZR2oo)
+
+## DeFi Timeline ([source](https://defieducation.substack.com/p/the-history-of-defi))
+
+A brief DeFi timeline exctracted from this  using GPT-3:
+
+- **2009:** Bitcoin genesis block mined
+- **2014:** Ethereum whitepaper published by Vitalik Buterin
+- **2015:** MakerDAO launches on Ethereum testnet with eDollar (later renamed to SAI and finally DAI)
+- **2017:** Chainlink mainnet launch
+- **2018:** Uniswap mainnet launch; Bancor raises $150M in ICO
+- **2019:** Compound mainnet launch with COMP token airdrop in 2020 - yearn.finance launches as Andre Cronje’s personal yield farming dashboard
+- **2020:** Sushiswap forks Uniswap and absorbs over $1B in liquidity; Curve launches with vote-escrowed CRV governance model to direct stablecoin liquidity mining rewards to strongest pegs; DeFi summer fueled by COMP incentives results in influx of new users and TVL hitting close to $15B by September 2020 despite the pandemic
+- **2021:** Bull run fuels decentralization of exchanges (DEX) from Ethereum to BSC with pancakeswap leading the pack; ETH 2.0 delay spurs move towards alt-L1 chains such as Avalanche, Cosmos & Solana; vote-escrowed tokenomics (veTokens) become popularized by Curve & Frax; Uniswap launches UNI governance token airdrop to incentivize migration away from Sushiswap
+- **2022:** Cross-chain liquidity and interoperability becomes more important than ever with ETH 2.0 not on track to fix congestion issues in the near term
