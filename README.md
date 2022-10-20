@@ -296,6 +296,7 @@ Below are glossaries and other resources to help you navigate DeFi:
 - [defillama wiki](https://wiki.defillama.com/wiki/Main_Page)
 - [defi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [defi security basics](https://mirror.xyz/blorms.eth/LI0i-2v2Qs5UX2NV_L6zA8JMOteoOw0jWSm4e8ZR2oo)
+- [how to study defi](https://0xth.notion.site/DeFi-Studies-c16a5b6fba254c719fed633bc6b3b990#45356bb2587844588c678b98644cbf8f)
 
 ## DeFi Timeline ([source](https://defieducation.substack.com/p/the-history-of-defi))
 
